@@ -36,8 +36,8 @@ let allMusic = [
         src: "Locked Out of Heaven"
     },
     {
-        name: "Tove Lo",
-        artist: "Habits (Já tinha ouvido)",
+        name: "Habits",
+        artist: "Tove Lo (Já tinha ouvido)",
         img: "Tove Lo",
         src: "Tove Lo"
     },
